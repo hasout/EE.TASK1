@@ -44,7 +44,7 @@ One side to +5V through the push button
 The signal pin connects to the digital input pins D2–D5
 
 
-تحرير
+
 🎯 Use Cases
 Simulating robotic arm movements with button inputs
 
